@@ -11,5 +11,9 @@
 <div class="container">
     <h1>Curios Coffee Shop!</h1>
 </div>
+
+
+
+<jsp:include page="/WEB-INF/partials/scripts.jsp" />
 </body>
 </html>

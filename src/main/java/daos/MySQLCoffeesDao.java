@@ -31,13 +31,13 @@ public class MySQLCoffeesDao implements Coffees{
 
 
     @Override
-    List<Coffee> all(){
-        List<Coffee> allcoffees;
+    public List<Coffee> all(){
+        List<Coffee> allcoffees =  null;
         return allcoffees;
     };
 
     @Override
-    Long insert (Coffee coffee){
+    public Long insert (Coffee coffee){
         return 0L;
     };
 }
