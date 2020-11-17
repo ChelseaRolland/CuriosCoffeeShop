@@ -26,6 +26,14 @@
             <input id="email" name="email" class="form-control" type="text">
         </div>
         <div class="form-group">
+            <label for="firstname">First Name</label>
+            <input id="firstname" name="email" class="form-control" type="text">
+        </div>
+        <div class="form-group">
+            <label for="lastname">Last Name</label>
+            <input id="lastname" name="email" class="form-control" type="text">
+        </div>
+        <div class="form-group">
             <label for="password">Password</label>
             <input id="password" name="password" class="form-control" type="password">
         </div>
